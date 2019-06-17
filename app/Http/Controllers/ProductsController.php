@@ -7,6 +7,7 @@ use App\Product;
 use App\ShoppingCart;
 use App\Http\Resources\ProductsCollection;
 
+
 class ProductsController extends Controller
 {
     public function __construct(){
