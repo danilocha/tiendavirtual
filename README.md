@@ -1,2 +1,2 @@
 ## Notas:
-Estas es mi pagina web! propiedad privada
+Desarrollo de tienda online con laravel y vue.js 
